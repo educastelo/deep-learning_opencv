@@ -1,0 +1,5 @@
+Step #1: Accept bounding box coordinates and compute centroids
+Step #2: Compute Euclidean distance between new bounding boxes and existing objects
+Step #3: Update (x, y)-coordinates of existing objects
+Step #4: Register new objects
+Step #5: De-register old objects
